@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "20dc5d388490d92028c97d2875145c02"
+build_time: [1528166699, 118297000]
+inputs:
+  "/Users/jackwong/Desktop/Developer/LoadingBarAnimation/LoadingBarAnimation/ViewController.swift": [1528166698, 0]
+  "/Users/jackwong/Desktop/Developer/LoadingBarAnimation/LoadingBarAnimation/CountingLabel.swift": [1528166677, 0]
+  "/Users/jackwong/Desktop/Developer/LoadingBarAnimation/LoadingBarAnimation/AppDelegate.swift": [1528120196, 0]
